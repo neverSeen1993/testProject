@@ -8,7 +8,7 @@
     <li>php artisan migrate</li>
     <li>php db:seed</li>
 </ul>
-5. В корне папки выполнить следующие команды
+В корне папки выполнить следующие команды
 <ul>
     <li>chown -R :www-data app/storage</li>
     <li>chmod -R 775 app/storage</li>
